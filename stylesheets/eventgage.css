@@ -10,7 +10,7 @@ body {
   background-image: url(../images/party.jpg);
   background-repeat: no-repeat;
   background-size:top;
-  background-position: top;
+  background-position: center top;
   background-attachment: fixed;
 }
 
@@ -18,15 +18,16 @@ body {
   margin: 25 auto;
   font-family: arial;
   font-color: yellow;
+  border-bottom: solid;
 }
 
 #customerexp {
   font-color: yellow;
 }
 
-ul {list-style-type: none
+ul {list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 15;
     overflow: hidden;
 }
 
