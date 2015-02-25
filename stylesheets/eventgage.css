@@ -1,0 +1,47 @@
+
+
+body {
+  width: 960px;
+  line-height: normal;
+  margin: 0 auto;
+  font-family: sans-serif;
+  color: white;
+  background-color: gray;
+  background-image: url(../images/party.jpg);
+  background-repeat: no-repeat;
+  background-size:top;
+  background-position: top;
+  background-attachment: fixed;
+}
+
+#navbar {
+  margin: 25 auto;
+  font-family: arial;
+  font-color: yellow;
+}
+
+#customerexp {
+  font-color: yellow;
+}
+
+ul {list-style-type: none
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {float: left;
+}
+
+a {
+    display: block;
+    width: 60px;
+    color: orange
+  }
+
+
+
+
+
+
+
